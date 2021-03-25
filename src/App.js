@@ -1,4 +1,4 @@
-import './styles/index.css'
+
 import {Counter} from './components/Counter'
 
 
