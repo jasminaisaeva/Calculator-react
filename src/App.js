@@ -1,11 +1,13 @@
 
-import {Counter} from './components/Counter'
+import {Calculator} from './components/Calculator'
+import { Calculator2 } from './components/Calculator2/indx'
 
 
 function App() {
   return (
     <div className="App">
-    <Counter/>
+    <Calculator/>
+    <Calculator2/>
     </div>
   );
 }
