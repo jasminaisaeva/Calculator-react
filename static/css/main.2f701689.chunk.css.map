@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/Counter/Counter.css"],"names":[],"mappings":"AAEA,OACI,YACJ,CACA,MACI,iBACJ","file":"main.2f701689.chunk.css","sourcesContent":["\r\n\r\n.block{\r\n    margin: 200px;\r\n}\r\ninput{\r\n    border-radius: 5px;\r\n}"]}
